@@ -1,0 +1,5 @@
+
+# requirements.txt
+# Acest fișier indică pachetele necesare pentru rularea proiectului Hangman Solver.
+# Pentru acest proiect nu sunt necesare pachete externe, se folosește doar biblioteca standard Python (unicodedata, csv, collections etc).
+# Asigură-te că ai Python 3.8+ instalat.
