@@ -2,8 +2,6 @@
 
 #
 
-Origin repo: [https://github.com/podut/spanzuratoare-bot](https://github.com/podut/spanzuratoare-bot)
-
 # Rezolvator Spânzurătoare - Algoritm procedural fără clase
 
 ## Descriere
